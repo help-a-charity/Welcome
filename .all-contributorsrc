@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JAStark",
+      "name": "Jennifer A Stark",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7544235?v=4",
+      "profile": "http://www.foxling.co",
+      "contributions": [
+        "doc",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Welcome",
+  "projectOwner": "help-a-charity",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
