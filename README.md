@@ -5,7 +5,7 @@
 
 This is the GitHub home of the Help A Charity, where local charities and Manchester Tech come together to make things better. For more information, go [here](https://www.techforgood.live/help-a-charity)
 
-We believe many hands make small work, and want this GitHub Project to be a welcoming place for Tech folks to be able to contibute little or a lot, no matter whether you're a seasoned pro, or totally new to programming, documentation, or tech in general. This should be a place for everyone. 
+We believe many hands make small work, and want this GitHub Project to be a welcoming place for Tech folks to be able to contribute a little or a lot, no matter whether you're a seasoned pro, or totally new to programming, documentation, or tech in general. This should be a place for everyone. 
 
 As such, you will find our [Code of Conduct here](). Please do read it. By contributing – from code to comments and everything in between – you are agreeing to the Code of Conduct. 
 
